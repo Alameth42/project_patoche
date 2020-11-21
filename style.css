@@ -1,0 +1,42 @@
+* {
+	font-family: Arial /* Police générale de la page */
+}
+
+header {
+    font-size: 40px; 
+	color: #21406F;
+    vertical-align: top;
+	text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom:0;
+    width:100%;
+    display:flex-center;
+    vertical-align:top;
+	text-align: center;
+}
+
+img {
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.flotte
+    background-color: #21406F;
+	width: auto;
+	height: 500px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.p1 {
+	font-size: 30px;
+	text-align: center;
+}
+
+.flotte {
+    float: left;
+    }
